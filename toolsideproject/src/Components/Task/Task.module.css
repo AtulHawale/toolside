@@ -1,0 +1,37 @@
+.Task{
+    background-color:white;
+    height: 70px;
+    border-style: solid;
+    border-bottom-color: black;
+    margin-right: 10px;
+    color:black;
+    margin:0px;
+    padding:0px;
+    display: flex;
+    flex-flow: row;
+    align-items: stretch;
+}
+
+.space1{
+    width: 550px;
+    align-items:center;
+    margin-left: 150px;
+}
+
+
+.button{
+    margin: 10px 0px;
+    background-color: red;
+    box-sizing: border-box;
+    float: right;
+    margin-left: 550px;
+}
+
+.Add{
+    position: fixed;
+    margin-left: 50px;
+    background-color: blueviolet;
+    margin-top: 380px;
+    height: 50px;
+    width: 55px;
+}
